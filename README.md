@@ -49,11 +49,11 @@ This project develops predictive models to identify risk factors for Type 2 diab
 - Class imbalance may affect predictive performance
 
 ## 👩‍💻 Authors
-- Mahmudul Hasan Mamun (PhD Candidate in Statistics & Analytics)
-- Ayman Almomany
+- Mahmudul Hasan Mamun (PhD Candidate in Statistics & Analytics)  
+- Ayman Almomany  
 
-Deparment of Statistics, Actuarial & Data Sciences
-Central Michigan University
+Department of Statistics, Actuarial & Data Sciences  
+Central Michigan University  
 
 **Research Focus (Mamun):** Statistical modeling, machine learning, and applied data analysis
 
