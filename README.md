@@ -58,4 +58,4 @@ Central Michigan University
 **Research Focus (Mamun):** Statistical modeling, machine learning, and applied data analysis
 
 ## 📎 Note
-This project was completed as part of STA 591: Data Mining Techniques at Central Michigan University under the guidance of Dr. Imad Haider.
+This project was completed as part of the course **"STA 591: Data Mining Techniques"** at **Central Michigan University** in 2022, under the guidance of **Dr. Imad Haider**.
